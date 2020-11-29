@@ -11,8 +11,8 @@ All the feature of IMS are given as follows:
 * Revenue Calculator
 * Details for specific product in the inventory View full inventory
 
-_The program contains two files – index.py and
+*The program contains two files – index.py and
 mod.py
 * index.py is the navigational file, containing all the choice making functions
 of the program
-* mod.py is an user defined module file containg all the functions used in the program._
+* mod.py is an user defined module file containg all the functions used in the program.*
