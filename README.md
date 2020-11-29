@@ -15,4 +15,4 @@ All the feature of IMS are given as follows:
 mod.py
 * index.py is the navigational file, containing all the choice making functions
 of the program
-* mod.py is an user defined module file containg all the functions used in the program.*
+* mod.py is an user defined module file containg all the functions used in the program.
