@@ -9,7 +9,8 @@ be updated frequently. It can also calculate the Gross Profit/Loss (from Sales a
 All the feature of IMS are given as follows:
 * Sale and Purchase Entry
 * Revenue Calculator
-* Details for specific product in the inventory View full inventory
+* Details for specific product in the inventory 
+* View full inventory
 
 *The program contains two files – index.py and mod.py*
 
